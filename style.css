@@ -1,0 +1,40 @@
+body {
+    background-color: #d2b48c;
+  }
+  
+  h2 {
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+    h3{
+        text-align: center;
+        font-family:'Courier New', Courier, monospace;
+    }
+  p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+    iframe {
+     color: lightcoral;
+}
+    nav {
+        text-align: center;
+    }
+    .antigo {
+        display: flex;
+        justify-content: start;
+
+    }
+    .novo{
+        display: flex;
+        justify-content: space-between;
+    }
